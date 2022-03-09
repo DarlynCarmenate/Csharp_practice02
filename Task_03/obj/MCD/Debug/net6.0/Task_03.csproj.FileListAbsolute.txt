@@ -1,0 +1,15 @@
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.csproj.AssemblyReference.cache
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.AssemblyInfoInputs.cache
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.AssemblyInfo.cs
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.csproj.CoreCompileInputs.cache
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\bin\MCD\Debug\net6.0\Task_03.exe
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\bin\MCD\Debug\net6.0\Task_03.deps.json
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\bin\MCD\Debug\net6.0\Task_03.runtimeconfig.json
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\bin\MCD\Debug\net6.0\Task_03.dll
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\bin\MCD\Debug\net6.0\ref\Task_03.dll
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\bin\MCD\Debug\net6.0\Task_03.pdb
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.dll
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\ref\Task_03.dll
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.pdb
+C:\Users\Darlyn Carmenate\Desktop\C#_practice_2\Tasks\Task_03\obj\MCD\Debug\net6.0\Task_03.genruntimeconfig.cache
